@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GenderizeReact/static/css/main.f1cf6754.css",
+    "main.js": "/GenderizeReact/static/js/main.41d3fd5b.js",
+    "static/js/787.518c243a.chunk.js": "/GenderizeReact/static/js/787.518c243a.chunk.js",
+    "index.html": "/GenderizeReact/index.html",
+    "main.f1cf6754.css.map": "/GenderizeReact/static/css/main.f1cf6754.css.map",
+    "main.41d3fd5b.js.map": "/GenderizeReact/static/js/main.41d3fd5b.js.map",
+    "787.518c243a.chunk.js.map": "/GenderizeReact/static/js/787.518c243a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1cf6754.css",
+    "static/js/main.41d3fd5b.js"
+  ]
+}
